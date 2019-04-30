@@ -1,0 +1,11 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-opcua": "^0.7.2",
+        "node-red-contrib-iiot-opcua": "^3.10.2",
+        "node-red-contrib-modbus": "^4.1.3"
+    }
+}
